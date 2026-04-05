@@ -2,6 +2,8 @@
 
 A data analytics dashboard simulating last-mile delivery operations across 15 Dubai zones over 6 months — 133,000+ (Synthetic Data NOT REAL!) orders, 50 drivers (Synthetic Data NOT REAL!), built to surface real operational insights through SQL and data visualization.
 
+# Vercel Link: https://last-mile-delivery-dashboard.vercel.app/
+
 ## What it shows
 
 - **KPI Cards** — Total orders, avg delivery time, on-time rate, active drivers, avg distance, avg delay
