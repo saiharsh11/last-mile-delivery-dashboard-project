@@ -1,4 +1,4 @@
-# Dubai Last-Mile Delivery Analytics Dashboard
+# Last-Mile Delivery Analytics Dashboard
 
 A data analytics dashboard simulating last-mile delivery operations across 15 Dubai zones over 6 months — 133,000+ (Synthetic Data NOT REAL!) orders, 50 drivers (Synthetic Data NOT REAL!), built to surface real operational insights through SQL and data visualization.
 
